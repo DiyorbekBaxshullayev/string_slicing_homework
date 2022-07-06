@@ -9,4 +9,4 @@ def main(s):
       
     return s[0:4]
 
-print(main('codeschool'))
+print(main('code'))
